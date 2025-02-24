@@ -14,7 +14,7 @@
 Sau khi có tài khoản GitHub, cư dân có thể tạo issue để báo cáo các vấn đề trong khu căn hộ:
 
 1. Truy cập vào trang GitHub của dự án **The Vista An Phú** (liên kết sẽ được cung cấp bởi Tnp - đại diện cư dân tông hợp các vân đề)
-2. Chọn tab **Project**
+2. Chọn tab **Projects**
 ![image](https://github.com/user-attachments/assets/daa00c45-d9c8-4417-8625-c2e64c9e7a5f)
 
 3. Nhấn vào **The Vista An Phu existing issue**
@@ -37,8 +37,7 @@ Sau khi có tài khoản GitHub, cư dân có thể tạo issue để báo cáo 
 Để giúp quản lý vấn đề dễ dàng, cư dân nên gán nhãn phù hợp khi tạo issue.Một số nhãn hiện tại như hình dưới đây
 https://github.com/thevistananphu/issues/issues/labels
 
-![Uploading image.png…]()
-
+https://private-user-images.githubusercontent.com/198916318/416207006-ddf8466b-6f48-4a9a-ba25-12ac494ce103.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA0MDQzMTcsIm5iZiI6MTc0MDQwNDAxNywicGF0aCI6Ii8xOTg5MTYzMTgvNDE2MjA3MDA2LWRkZjg0NjZiLTZmNDgtNGE5YS1iYTI1LTEyYWM0OTRjZTEwMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyNFQxMzMzMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wN2FiZGIzMjk0Yjk5NTFiYWViZTAyZGRjYjY1YjAyMGRjYTFjYThmMWUyYTM4NmY3M2ZlYjU1YmY0ZjdiZGZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.YIyGv1WmyiMeldTOqlFAs8GBwKpjDB7Ey-w9yV9Ab0Y
 
 Cư dân có thể chọn nhãn khi tạo issue bằng cách nhấn vào **Labels** và chọn nhãn phù hợp.
 
