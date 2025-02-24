@@ -17,9 +17,7 @@ Sau khi có tài khoản GitHub, cư dân có thể tạo issue để báo cáo 
 2. Chọn tab **Projects**
 ![image](https://github.com/user-attachments/assets/daa00c45-d9c8-4417-8625-c2e64c9e7a5f)
 
-3. Nhấn vào **The Vista An Phu existing issue**
-
-![image](https://github.com/user-attachments/assets/332d55a1-e65c-4793-af26-40f6bf84f687)
+3. Nhấn vào Project tên **The Vista An Phu existing issue** sẽ mở ra một giao diện có nhiều ticket
 
 4. Nhấn vào nút **Add item**
 ![image](https://github.com/user-attachments/assets/9865a68b-fdc9-4873-83de-e37f2bf0ac59)
