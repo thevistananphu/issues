@@ -22,8 +22,8 @@ Sau khi có tài khoản GitHub, cư dân có thể tạo issue để báo cáo 
 ![image](https://github.com/user-attachments/assets/332d55a1-e65c-4793-af26-40f6bf84f687)
 
 4. Nhấn vào nút **Add item**
+![image](https://github.com/user-attachments/assets/9865a68b-fdc9-4873-83de-e37f2bf0ac59)
 
-  ![image](https://github.com/user-attachments/assets/ddf8466b-6f48-4a9a-ba25-12ac494ce103)
 
 6. Điền thông tin vào các trường:
    - **Title (Tiêu đề)**: Viết ngắn gọn vấn đề, nên tập chung các vấn đề lặp đi lặp lại, đã đưa lên nhiều lần nhưng cbre chưa giải quyết hoặc không có hướng giải quyết cụ thể, ví dụ: "Liên tục lặp lại vấn đề Thang máy bâm đi các tầng đều được nhưng không có giải trình vấn đề"
@@ -36,8 +36,7 @@ Sau khi có tài khoản GitHub, cư dân có thể tạo issue để báo cáo 
 ## 3. Gán Nhãn (Labels) Cho Issue
 Để giúp quản lý vấn đề dễ dàng, cư dân nên gán nhãn phù hợp khi tạo issue.Một số nhãn hiện tại như hình dưới đây
 https://github.com/thevistananphu/issues/issues/labels
-
-https://private-user-images.githubusercontent.com/198916318/416207006-ddf8466b-6f48-4a9a-ba25-12ac494ce103.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA0MDQzMTcsIm5iZiI6MTc0MDQwNDAxNywicGF0aCI6Ii8xOTg5MTYzMTgvNDE2MjA3MDA2LWRkZjg0NjZiLTZmNDgtNGE5YS1iYTI1LTEyYWM0OTRjZTEwMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyNFQxMzMzMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wN2FiZGIzMjk0Yjk5NTFiYWViZTAyZGRjYjY1YjAyMGRjYTFjYThmMWUyYTM4NmY3M2ZlYjU1YmY0ZjdiZGZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.YIyGv1WmyiMeldTOqlFAs8GBwKpjDB7Ey-w9yV9Ab0Y
+  ![image](https://github.com/user-attachments/assets/ddf8466b-6f48-4a9a-ba25-12ac494ce103)
 
 Cư dân có thể chọn nhãn khi tạo issue bằng cách nhấn vào **Labels** và chọn nhãn phù hợp.
 
