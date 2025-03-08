@@ -38,6 +38,18 @@ https://github.com/thevistananphu/issues/issues/labels
 
 Cư dân có thể chọn nhãn khi tạo issue bằng cách nhấn vào **Labels** và chọn nhãn phù hợp.
 
+## 5. Cập nhập các trường ( Field)
+"Field" trong ngữ cảnh GitHub Projects là các trường dữ liệu được sử dụng để tổ chức và quản lý thông tin trong một dự án. Các trường này có thể bao gồm:
+- Text và Number Fields: Lưu trữ văn bản hoặc số liệu.
+- Date Fields: Ghi lại ngày tháng, có thể nhập bằng tay hoặc chọn từ lịch.
+- Single Select Fields: Cho phép chọn một giá trị từ danh sách các tùy chọn.
+- Iteration Fields: Dùng để lập kế hoạch công việc theo chu kỳ.
+- Parent Issue và Sub-Issue Fields: Hiển thị mối quan hệ giữa các vấn đề chính và phụ.
+
+Cư dân có thể thêm hoặc chỉnh sửa trường để phù hợp với nhu cầu cụ thể của dự án. Để thêm / xóa cac trường cư dân có thể truy cập vào Settings -> Custom Fields để thay đổi. Nên giới hạn quyền này chỉ cho Admin để đồng nhất dữ liệu
+
+![image](https://github.com/user-attachments/assets/d87bb149-fdd0-4183-a801-9e77759a8759)
+
 ## 4. Theo Dõi Và Cập Nhật Issue
 - Sau khi tạo issue, cư dân có thể theo dõi tiến trình xử lý bằng cách truy cập tab **Issues**.
 - Nếu vấn đề đã được giải quyết, người tạo có thể đóng issue bằng cách nhấn **Close issue**.
